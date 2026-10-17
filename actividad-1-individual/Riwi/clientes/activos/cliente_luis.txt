@@ -1,0 +1,4 @@
+Nombre: Luis Torres
+Empresa: Panadería
+Aurora Estado: activo.
+ana@example.com

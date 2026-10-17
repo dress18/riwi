@@ -1,0 +1,13 @@
+Equipo Los pingui: Andrés Gómez, Andrés Orozco, Esteban Palacios, Daniel Toro, José Valencia
+La ruta absoluta: /home/cohorte87/novatech
+
+- Cantidad de carpetas dentro de la carpeta novatech: 3
+-  La cantidad de archivos .tmp: 5
+-  Lo que decia en el archivo notas_dev: Recordatorio: el cliente queria algo con cafe... o era te?
+
+-Cliente: Cafe Montana 
+/home/cohorte87/novatech/correo/bandeja
+- La palabra clave es: ESPRESSO
+- Requisitos: El directorio del proyecto tiene que se Cafe Montana, el index.html debe estar en la raiz. Mientras que en contacto, nosotros y una nueva pagina dentro de menu.html dentro de pages. Usar estilos de css y scripts en js. usar imagenes en assets/img. audios en assets/audio. PDFs en docs. el script principal tiene que llamarse app.js y el banner llamarse banner.jpg. los archivos .tmp y .log no estan permitidos en el proyecto. el cliente solicita un README.md con el nombre del equipo y un .gitignore
+
+Mision 3:  La opcion especial que utilizamos es cp -r, esta opcion especial es necesaria porque cp -r asegura que se copien correctamente la carpecta con sus subcarpertas, sin esta opcion especial nos arrojaria el error

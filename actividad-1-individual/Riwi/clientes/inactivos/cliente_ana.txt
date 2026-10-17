@@ -1,0 +1,6 @@
+Nombre: Ana Torres.
+Empresa: Panadería Aurora.
+Estado: activo.
+ana@example.com
+Observación: solicita una página web
+Cambio: Ana dejó de ser cliente activo.

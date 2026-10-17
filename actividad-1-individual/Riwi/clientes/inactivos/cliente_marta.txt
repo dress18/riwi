@@ -1,0 +1,4 @@
+Nombre: Marta Torres
+Empresa: Panadería Aurora
+Estado:inactivo.
+marta@example.com
